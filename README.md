@@ -16,10 +16,10 @@
 ## 목차
   - [내용](#내용)
   - [화면](#화면)
-  - [기술스택](#기술스택)
-  - [저작권](#저작권)
   - [실행영상(챗봇)](#실행영상챗봇)
+  - [기술스택](#기술스택)
   - [느낀점](#느낀점)
+  - [저작권](#저작권)
 
 ## 내용
 - **`로그인` :** 네이버, 카카오 소셜 로그인
@@ -45,6 +45,12 @@
 | :---: | :---: | :---: |
 | <img width="250" src="https://github.com/user-attachments/assets/858d1dce-822a-49e8-a6ce-a2a591475678"/> | <img width="250" src="https://github.com/user-attachments/assets/c7c2c408-2c3c-4b0f-b072-a823a6a14386"/> | <img width="250" src="https://github.com/user-attachments/assets/0b498551-af50-4098-ba2c-d0886c8ad5ab"/> |
 
+## 실행영상(챗봇)
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/698a7b8d-fa76-4199-bea6-427367500543" width="200" height="200" controls>
+  </video>
+</div>
+
 ---
 ## 기술스택
 ### **🤖** 안드로이드
@@ -60,20 +66,14 @@
 | **Social Login** | Kakao, Naver |
 | **Image** | Glide |
 
-## 저작권
-Copyright 2024. 전세원 All rights reserved.<br>
-ⓒ 2024. 전세원 All rights reserved.<br>
-(c) 2024. 전세원 All rights reserved.
-
-## 실행영상(챗봇)
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/698a7b8d-fa76-4199-bea6-427367500543" width="200" height="200" controls>
-  </video>
-</div>
-
 ## 느낀점
 - **다양한 직군과의 협업**: 창업동아리 프로젝트를 통해 기획, 디자이너, 백엔드 개발자와 함께 팀으로 소통하며 하나의 서비스를 처음부터 끝까지 완성하는 과정을 경험했습니다. 특히 피그마 디자인 가이드를 보고 UI를 구현하고, 백엔드와 API 명세서를 보며 조율하여 서버 연결 작업을 하는 등 실제 개발 프로세스의 기초를 경험할 수 있었습니다.
 
 - **사용자 중심의 기능 구현**: 단순히 기술 구현에 그치지 않고, 캐릭터 성장 시스템 등 사용자의 재미와 편의를 고려한 기능을 구현하며 사용자 관점에서 앱을 바라보는 관점을 경험했습니다.
 
 - **UI 설계**: 챗봇 결과의 데이터 타입별로 모두 다른 글자 수와 뷰 구조를 가진 챗봇 카드 UI를 구현하며, 개별 레이아웃 대응 방식의 한계를 경험했습니다. 이를 통해 앞으로의 개발 과정에서 재사용 가능한 컴포넌트 설계와 확장성 있는 UI 설계의 중요성을 체감하는 중요한 경험이 되었습니다.
+
+## 저작권
+Copyright 2024. 전세원 All rights reserved.<br>
+ⓒ 2024. 전세원 All rights reserved.<br>
+(c) 2024. 전세원 All rights reserved.
